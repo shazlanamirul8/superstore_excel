@@ -4,6 +4,9 @@ I will demonstrate my advanced excel skills in this portfolio.
 # Global Superstore Dataset
 To analyze global sales, profit, and customer trends to uncover key insights that can improve business decision-making across regions and product categories.
 
+Note:
+The original Excel file was not included due to file corruption that occurred when saving, which caused the loss of embedded visuals (charts and slicers). To maintain the dashboard’s intended design and clarity, only high-quality screenshots and project documentation are shared here.
+
 # Data Cleaning
 Typical steps for formal data cleaning in Excel include:
 - Remove duplicates

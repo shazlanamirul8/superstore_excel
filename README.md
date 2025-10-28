@@ -107,9 +107,13 @@ Objective
 Steps
 - Put segment in row, profit, sales and profit margin in values in order to study customer behaviours.
 
-![segmnet_1](segment-1.png)
+![segmnet_1](segment_1.png)
 
 ### Insight
 In both profit and sales, the Home Office segment generates the lowest total; however, it achieves the highest profit margin compared to the Consumer and Corporate segments. The margin difference is relatively small, around 1%–2%, suggesting that all segments perform at a similar level of efficiency. This indicates that the business maintains a consistent pricing and cost strategy across customer segments.
 
 ## 5. The Final Dashboard
+Objective
+Designed an interactive Excel dashboard to analyze sales, profit, and margin trends across product categories, regions, and customer segments. Integrated Pivot Tables, slicers, and calculated fields to create dynamic KPIs and visual insights. Key highlights include analysis of discount impact on profit margins, year-over-year profit trends, and top-performing states. The dashboard enables data-driven decision-making and highlights Shazlan’s ability to combine business understanding with Excel analytics.
+
+![dashboard_1](dashboard_2.png)

@@ -114,6 +114,6 @@ In both profit and sales, the Home Office segment generates the lowest total; ho
 
 ## 5. The Final Dashboard
 Objective
-Designed an interactive Excel dashboard to analyze sales, profit, and margin trends across product categories, regions, and customer segments. Integrated Pivot Tables, slicers, and calculated fields to create dynamic KPIs and visual insights. Key highlights include analysis of discount impact on profit margins, year-over-year profit trends, and top-performing states. The dashboard enables data-driven decision-making and highlights Shazlan’s ability to combine business understanding with Excel analytics.
+Designed an interactive Excel dashboard to analyze sales, profit, and margin trends across product categories, regions, and customer segments. Integrated Pivot Tables, slicers, and calculated fields to create dynamic KPIs and visual insights. Key highlights include analysis of discount impact on profit margins, year-over-year profit trends, and top-performing states.
 
 ![dashboard_1](dashboard_2.png)
